@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { getTokenData } from "@/helpers/getData";
 
 import { NextRequest, NextResponse } from "next/server";

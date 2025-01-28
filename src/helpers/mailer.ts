@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 // domain.com/verifytoken/tokenValue - better for server components
 // domain.com/verifytoken?token=value -better for client components
 
